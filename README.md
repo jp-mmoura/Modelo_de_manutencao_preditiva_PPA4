@@ -1,4 +1,3 @@
-# Modelo_de_manutencao_preditiva_PPA4
 # Manutenção Preditiva com Machine Learning e RAG
 
 Atividade prática de classificação de falhas em equipamentos industriais usando o dataset **AI4I 2020 Predictive Maintenance**, com análise dos resultados via **RAG (Retrieval-Augmented Generation)** usando LangChain e Google Gemini.
